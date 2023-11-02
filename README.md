@@ -15,6 +15,6 @@ The file [``sample_data.csv``](sample_data.csv) is an example of input data.
 python classify.py sample_data.csv text
 ```
 
-See [``requirements.txt``](requirements.txt) for the requirements of the python environment.
+See [``requirements.txt``](requirements.txt) for the requirements of the python (tested on 3.11) environment.
 
 See [LICENSE](LICENSE) file for the license terms.
